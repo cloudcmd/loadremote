@@ -1,5 +1,5 @@
 {
-  "name": "load-remote",
+  "name": "loadremote",
   "version": "1.0.0",
   "description": "library for loading modules from cdn or local file system",
   "main": "lib/load-remote.js",
