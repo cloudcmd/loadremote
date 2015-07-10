@@ -8,7 +8,8 @@
   "description": "library for loading modules from cdn or local file system",
   "main": "lib/load-remote.js",
   "moduleType": [
-    "globals"
+    "globals",
+    "node"
   ],
   "keywords": [
     "load",
