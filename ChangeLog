@@ -1,8 +1,5 @@
 2016.02.01, v1.2.0
 
-fix:
-- feature(loadremote) rm noPrefix
-
 feature:
 - (loadremote) rm noPrefix
 
