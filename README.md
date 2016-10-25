@@ -4,16 +4,8 @@ Library for loading modules from cdn or local file system.
 
 ## Install
 
-With npm:
-
 ```
-npm i load-remote --save
-```
-
-Or with bower:
-
-```
-bower i load-remote --save
+bower i loadremote --save
 ```
 
 ## How to use?
@@ -51,3 +43,4 @@ loadRemote('socket', {  /* name of module in modules.json */
 ## License
 
 MIT
+
